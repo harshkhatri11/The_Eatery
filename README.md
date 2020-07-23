@@ -1,4 +1,4 @@
-# The_Eatery
+# The Eatery
 
 
 - The Eatery is a Premium food delivery service website. 
